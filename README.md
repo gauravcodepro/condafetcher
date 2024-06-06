@@ -19,9 +19,9 @@ conda install activisiongamescience::seaborn
 and so on 
 ```
 
-Gaurav 
-Academic Staff Member 
-Bioinformatics 
-Institute for Biochemistry and Biology 
-University of Potsdam 
+Gaurav \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
 Potsdam,Germany

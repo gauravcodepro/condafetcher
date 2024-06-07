@@ -1,6 +1,7 @@
 # condafetcher
 
-- a condafetcher that interacts directly with the anaconda package repository
+- a condafetcher that interacts directly with the anaconda package repository.
+- generated clean conda installation links for the search terms.
 - to run 
 ```
 sh condacheck.sh

@@ -2,7 +2,7 @@
 # Author Gaurav
 # Universitat Potsdam
 # Date 2024-6-6
-
+# https://anaconda.org/
 # A way to connect to the conda and search for the terms and get the conda generators.
 # a pure implementation of regular expression.
 read -r -p "please provide the search term:" term

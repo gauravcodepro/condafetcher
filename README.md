@@ -2,13 +2,11 @@
 
 - a condafetcher that interacts directly with the anaconda package repository.
 - generated clean conda installation links for the search terms.
-- to run 
 ```
 sh condacheck.sh
 please provide the search term:seaborn
 
 ```
-
 ``` 
 conda install conda-forge::seaborn 
 conda install conda-forge::seaborn-base 
